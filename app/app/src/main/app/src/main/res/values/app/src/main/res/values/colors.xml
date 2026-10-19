@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jarvis_bg">#050811</color>
+    <color name="jarvis_primary">#00E5FF</color>
+    <color name="jarvis_secondary">#0091EA</color>
+    <color name="jarvis_card">#0B132B</color>
+    <color name="jarvis_text">#E0F7FA</color>
+</resources>
