@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">JARVIS uses this service to perform user-authorized actions such as opening notifications, quick settings, and media playback control.</string>
+</resources>
